@@ -1,0 +1,6 @@
+com\mycompany\registro_estudiantes\RegistrarUsuarioServlet.class
+com\mycompany\registro_estudiantes\resources\JakartaEE10Resource.class
+com\mycompany\registro_estudiantes\EditarUsuarioServlet.class
+com\mycompany\registro_estudiantes\iniciarSesionServlet.class
+com\mycompany\registro_estudiantes\EliminarUsuarioServlet.class
+com\mycompany\registro_estudiantes\JakartaRestConfiguration.class
